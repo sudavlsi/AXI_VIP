@@ -1,0 +1,3 @@
+`define AXI_ADDR_WIDTH 32
+`define AXI_MAX_BURST_LEN 16 
+`define AXI_DATA_WIDTH 256
